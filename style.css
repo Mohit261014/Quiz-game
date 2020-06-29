@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+.a>pre{
+cursor: pointer;
+}
+.a>pre:hover{
+    color: blueviolet;
+    font-size: x-large;
+}
